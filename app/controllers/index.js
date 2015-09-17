@@ -7,10 +7,9 @@ module.exports.index = function (req, res) {
 }
 
 module.exports.test1 = function (req, res) {
-  r();
-  // res.send({
-  //   name: "Caio Lima",
-  //   age: 22
-  // })
+  res.send({
+    name: "Caio Lima",
+    age: 22
+  })
 }
 

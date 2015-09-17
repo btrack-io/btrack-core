@@ -9,6 +9,7 @@
   "author": "Caio Lima",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.14.0",
     "express": "^4.13.3",
     "filewalker": "^0.1.2",
     "morgan": "^1.6.1"
